@@ -4,7 +4,7 @@ import time
 import requests
 
 # Open-Meteo Air Quality API
-LAT, LON = 48.0061, 0.1996  # Le Mans
+LAT, LON = 34.7406, 10.7603  # Sfax Tunisia
 PAST_DAYS = 90
 URL = "https://air-quality-api.open-meteo.com/v1/air-quality"
 
